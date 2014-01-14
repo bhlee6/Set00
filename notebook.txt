@@ -1,0 +1,8 @@
+Date	Who	Start	Stop	Interruptions	Question	Time on Task	Comments
+1/8		??	??			1		??		Started question 1, preparing the laptop.  Did not note the times because the website was not up yet.
+1/14		5:25	5:35	0		3		10		Writing Design Recipe, Introduction Piazza
+1/14		5:45	7:50	5		4		120		Going over Exercises 1-15, Piazza, Reading Grading policy
+============Attempting to commit to git: 1/14 8:10 ===================
+
+Total Time on Task Ex1-15 (minutes)	130
+TOT Ex1-15 (hours and tenths)		2.2
